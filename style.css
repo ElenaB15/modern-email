@@ -1,0 +1,78 @@
+body {
+  margin: 0;
+  background-color: #cccccc;
+}
+table {
+  border-spacing: 0;
+}
+td {
+  padding: 0;
+}
+img {
+  border: 0;
+}
+.main {
+  width: 100%;
+  background-color: #fff;
+  margin: 0 auto;
+  max-width: 600px;
+  border-spacing: 0;
+  color: #4a4a4a;
+}
+.wrapper {
+  width: 100%;
+  table-layout: fixed;
+  background-color: #cccccc;
+  padding-bottom: 40%;
+}
+.first-column {
+  height: 8px;
+  background-color: #b8714e;
+}
+.apparel {
+  width: 180px;
+}
+.second-column {
+  text-align: center;
+  padding: 15px;
+}
+.banner {
+  width: 600px;
+  max-width: 100%;
+}
+.third-column {
+  text-align: center;
+  font-size: 25px;
+  background-color: #b8714e;
+  color: #fff;
+}
+.women {
+  width: 300px;
+  max-width: 300px;
+  padding-bottom: 40px;
+}
+.two-columns {
+  text-align: center;
+  font-size: 0;
+  padding: 40px 0;
+}
+.column {
+  width: 100%;
+  max-width: 300px;
+  display: inline-block;
+  vertical-align: top;
+  text-align: center;
+  font-size: 18px;
+  padding-bottom: 40px;
+}
+.button {
+  background-color: #464646;
+  color: #fff;
+  text-decoration: none;
+  padding: 15px 20px;
+  border-radius: 2px;
+}
+.footer {
+  background-color: #efefef;
+  text-align: center;
+}
